@@ -1,0 +1,28 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+h1 {
+  font-size: 50px;
+}
+.Name {
+    color: orange;
+}
+.firstsec {
+  width: 50%;
+  padding: 5%;
+}
+.firstsec img {
+  width: 100%;
+}
+section {
+  display: flex;
+}
+#hire {
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 30px;
+  font-weight: 700;
+  background-image:linear-gradient(orange, tomato) ;
+  color: white;
+  border-radius: 5px;
+}
